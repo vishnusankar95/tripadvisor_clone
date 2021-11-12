@@ -1,0 +1,168 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.log_container {
+  margin: 0 auto;
+  min-height: 400px;
+  background-color: #fff;
+  color: #303e4b;
+  font-weight: 400;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+  min-width: 100vh;
+}
+.log_container_left {
+  padding: 20px 40px 0 40px;
+  border: solid 1px #e7e7e7;
+  min-height: 330px;
+  background: #fff;
+  box-shadow: 1px 1px 3px rgb(0 0 0 / 10%);
+  margin-top: 50px;
+}
+
+.regimg {
+  height: 48px;
+}
+
+.head_h1 {
+  margin-top: 1.5vw;
+}
+
+.boxes {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 1vw;
+}
+
+.inp_boxes {
+  margin-top: 1.5vw;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 1vw;
+}
+
+.inp_boxes > input {
+  margin-left: -7.6vw;
+  margin-top: 1.5vw;
+  width: 206%;
+  border-radius: 4px;
+  border: 2px solid #e0e0e0;
+  height: 48px;
+  margin-bottom: 14px;
+  padding: 4px 4px 4px 8px;
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  background-color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  color: #000;
+}
+.forget_password {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0px;
+}
+.forget_password > p {
+  font-weight: 400;
+  font-size: 12px;
+}
+.forget_password > p > span {
+  background: none;
+  border: none;
+  color: #5364c4;
+  cursor: pointer;
+  outline: medium none !important;
+  font-weight: bold;
+  font-size: 15px;
+}
+.forget_password > h4 {
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: underline;
+  padding-bottom: 4px;
+  font-weight: 400;
+}
+
+.log_button > button {
+  margin-top: 20px;
+  margin-bottom: 16px;
+  width: 60%;
+  background: #000;
+  height: 4vw;
+  border-radius: 2vw;
+  font-size: 16px;
+  color: white;
+  margin-left: 3vw;
+}
+
+.liner {
+  width: 100%;
+  line-height: 0.1em;
+  margin: 21px 0px 24px;
+  background: #e0e0e0;
+  text-align: center;
+}
+
+.liner span {
+  background: #fff;
+  padding: 0 7 px;
+  font-size: 16px;
+  color: #333;
+}
+
+.create_link {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.create_account {
+  margin-top: 1vw;
+  color: #333;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 20px;
+  display: block;
+}
+
+.terms {
+  margin-top: 1.2vw;
+  text-align: center;
+  font-size: 13px;
+}
+
+.policy {
+  margin-top: 0.7vw;
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 2.7vw;
+}
+
+.log_input > input {
+  margin: 8px 0 16px;
+  width: 100%;
+  border-radius: 4px;
+  border: 2pxsolid #e0e0e0;
+  height: 48px;
+  margin-bottom: 14px;
+  padding: 4px 4px 4px 8px;
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  background-color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  color: #000;
+}
+
+.lst_btn {
+  width: 100%;
+  line-height: 0.1em;
+  margin: 24px 0;
+  background: #e0e0e0;
+  text-align: center;
+}

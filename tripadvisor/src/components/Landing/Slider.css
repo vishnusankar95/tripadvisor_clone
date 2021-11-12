@@ -1,0 +1,169 @@
+.corosel {
+  margin-top: 10vw;
+  width: 87%;
+  margin-left: 6vw;
+}
+
+.sliderwrpaer {
+  margin-top: -6vw;
+}
+.browsH2 {
+  position: relative;
+  align-self: left;
+  margin-left: 5vw;
+  font-size: 24px;
+  margin-bottom: -140px;
+  margin-top: 100px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.browsimg {
+  height: 272px;
+  width: 272px;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.rec.rec-arrow:hover {
+  /* background-color: red; */
+  background-color: rgba(241, 241, 243, 0.877);
+  transition: all 0.3s ease 0s;
+}
+
+.divimg {
+  position: relative;
+}
+
+.diver {
+  position: absolute;
+  /* padding: 16px 0 0; */
+  text-align: left;
+}
+
+.subhead {
+  color: #333333;
+  margin-top: 23.5vw;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+}
+
+.bbrowssub {
+  margin-top: -20px;
+  margin-left: -1vw;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #6b6b6b;
+}
+
+.f {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.o {
+  overflow: hidden;
+}
+
+.u {
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.w {
+  width: 100%;
+}
+
+.W {
+  text-overflow: ellipsis;
+}
+
+.dYMOQ {
+  min-height: 14px;
+}
+.RTVWf {
+  white-space: nowrap;
+}
+
+.RWYkj {
+  fill: #00aa6c;
+  fill-rule: evenodd;
+  font-size: 0;
+  vertical-align: text-top;
+}
+
+.cfIVb {
+  font-size: 15px;
+  color: #333;
+  margin-left: 8px;
+  /* margin-bottom: 1vw;  */
+}
+
+.WlYyy {
+  font-style: normal;
+}
+
+.bQCoY {
+  font-size: 30px;
+  line-height: 14px;
+}
+
+.H0 {
+  line-height: 0;
+}
+
+.d {
+  display: inline-block;
+}
+
+.cPsXC {
+  color: #000;
+}
+
+.dTqpp,
+.fhsZs {
+  font-family: "Trip Sans VF", "Trip Sans", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.pstyle {
+  position: relative;
+  margin-top: 144px;
+  margin-bottom: -75px;
+  margin-left: 5vw;
+}
+
+/* --------------------Destination -------------------------------*/
+
+.browsH2_Destination {
+  position: relative;
+  align-self: left;
+  margin-left: 5vw;
+  font-size: 24px;
+  margin-bottom: -90px;
+  margin-top: 100px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.corosel_Destination {
+  margin-top: 12vw;
+  width: 87%;
+  margin-left: 6vw;
+}
+
+.subhead_Destination {
+  color: #fff;
+  margin-top: 10.5vw;
+  font-family: "Trip Sans VF","Trip Sans",Arial,sans-serif;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: .02em;
+}

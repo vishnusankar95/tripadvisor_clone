@@ -1,0 +1,86 @@
+.main_abt{
+    width:100%;
+    background-color:#FAF1ED;
+    height:25vw;
+    margin-top:5vw;
+}
+
+.divider{
+    padding-top: 3vw;
+    display:grid;
+    grid-template-columns: 22% 20% 20% 25%;
+    grid-gap: 1%;
+}
+
+.first{
+    margin-left: 12vw;
+}
+
+.second{
+    margin-left:2vw;
+}
+
+.fh2{
+    color: #333;
+    font-weight: 400;
+    line-height: 22px;
+    font-size: 17px;
+    font-family: "Trip Sans VF","Trip Sans",Arial,sans-serif;
+}
+
+.childh4{
+    color: #333;
+    line-height: 27px;
+    font-weight: 700;
+    font-size: 13.5px;
+    font-family: "Trip Sans VF","Trip Sans",Arial,sans-serif;
+}
+
+.sedivider{
+    padding-top: 1vw;
+    display:grid;
+    grid-template-columns: 62% 25%;
+    grid-gap: 1%;
+}
+
+.sefst{
+    margin-left: 12vw;
+}
+
+.eTrnc {
+    width: 40px;
+    height: 40px;
+    float: left;
+}
+
+.lftdiv{
+    font-size: 12px;
+    line-height: 14px;
+    font-family: "Trip Sans VF","Trip Sans",Arial,sans-serif;
+    font-weight: 400;
+    color: #333;
+    margin-left: 58px;
+    margin-top: 0.6vw;
+}
+
+.fRtLq {
+        display: inline-block;
+    }
+
+ .dTqpp {
+        font-family: "Trip Sans VF","Trip Sans",Arial,sans-serif;
+        font-size: 5px;
+        line-height: 19px;
+        color: #333;
+        font-weight: 400;
+    }
+
+    .djJRy{
+        margin-right: 16px;
+    }
+
+    .spanWb {
+        font-size: 1vw;
+        margin-bottom: 0.5vw;
+        margin-left:.4vw;
+    }

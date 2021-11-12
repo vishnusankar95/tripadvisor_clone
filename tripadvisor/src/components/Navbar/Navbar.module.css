@@ -1,0 +1,48 @@
+.main {
+  background-color: white;
+  height: 3.7vw;
+  width: 100%;
+  border-bottom: 1px solid black;
+
+  display: grid;
+  grid-template-columns: 50% 12% 7% 6% 6% 6%;
+}
+
+.logo {
+  width: 12vw;
+  margin-top: 0.6vw;
+  margin-left: 9vw;
+}
+
+.svgnc Button {
+  font-family: var(--ta-sans-serif);
+  font-weight: var(--trip-sans-medium);
+  font-size: 16px;
+  border: none;
+  height: 40px;
+  background-color: white;
+}
+
+.fecdL {
+  margin-top: 1vw;
+  height: 1.5vw;
+}
+
+.sign {
+    border-radius: 1vw;
+    margin-top: 1vw;
+    font-size: 16px;
+    color: white;
+    height: 2vw;
+    width: 5vw;
+    background-color: black;
+}
+
+span {
+    font-size: 1.4vw;
+  margin-bottom: 0.5vw;
+}
+
+.review{
+    margin-left: 7vw;
+}
